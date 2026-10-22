@@ -1,13 +1,21 @@
 # 🔬 研究项目与论文复现
-这里收录研究项目、论文复现，以及与研究问题相关的数据集和评测基准。这个仓库是分类索引；每个项目保留自己的独立仓库、源码、Issues、发布记录和项目主页。
+
+这里收录研究项目、论文复现，以及与研究问题相关的数据集和评测基准。此仓库是分类索引；项目源码、Issues、发布记录和维护活动保留在各自的独立仓库。
+
 ## 项目列表
+
 目前还没有收录项目，欢迎提交论文复现、数据集或评测基准。
+
+## 收录字段规范
+
+每个项目条目应链接到独立主页，并说明用途、状态、维护者、许可证、快速开始和参与入口。研究条目还应记录论文或数据来源、数据/模型/素材授权、实验环境与配置、评测指标、结果差异及已知限制。未知信息标注“待确认”。
+
+新增或更新条目时，可复制[项目条目模板](https://github.com/Infinite-Monkey-Lab/.github/blob/main/PROJECT_ENTRY_TEMPLATE.md)。
+
 ## 提交项目
-[提交项目收录申请 / 展示研究成果](https://github.com/orgs/Infinite-Monkey-Lab/discussions/new/choose)
-请尽量附上：
-- 论文或数据来源链接，以及数据、模型和素材的许可说明
-- 项目独立仓库链接、维护者和当前状态
-- 复现方法、环境、运行步骤与实验配置
-- 评测指标、复现结果、与原文的差异及已知限制
+
+[在组织 Discussions 提交研究项目或复现成果](https://github.com/orgs/Infinite-Monkey-Lab/discussions/new/choose)。请提供项目独立仓库链接、论文或数据来源、维护者与状态，以及可复核的实验说明。
+
 ---
-[返回无限猴子实验室组织主页](https://github.com/Infinite-Monkey-Lab) · [查看全部分类](https://github.com/Infinite-Monkey-Lab)
+
+[返回组织主页](https://github.com/Infinite-Monkey-Lab) · [查看全部分类](https://github.com/Infinite-Monkey-Lab)
